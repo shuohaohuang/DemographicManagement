@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8714: El tipo no se puede usar como parámetro de tipo en el método o tipo genérico. La nulabilidad del argumento de tipo no coincide con la restricción "notnull"
+dotnet_diagnostic.CS8714.severity = silent
