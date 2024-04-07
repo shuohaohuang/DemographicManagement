@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Comarcas>
+  <CComarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Quantitat>1683107.36</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>ALT EMPORDÀ, L'</Comarca>
+    <Quantitat>8294703.27</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>ALT PENEDÈS, L'</Comarca>
+    <Quantitat>4338613</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>ALT URGELL, L'</Comarca>
+    <Quantitat>964649.27</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>ALTA RIBAGORÇA, L'</Comarca>
+    <Quantitat>429502.09</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>ANOIA, L'</Comarca>
+    <Quantitat>4885486.27</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BAGES, EL</Comarca>
+    <Quantitat>7384063</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BAIX CAMP, EL</Comarca>
+    <Quantitat>9701971.64</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BAIX EBRE, EL</Comarca>
+    <Quantitat>3445357.45</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BAIX EMPORDÀ, EL</Comarca>
+    <Quantitat>10249989.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BAIX LLOBREGAT, EL</Comarca>
+    <Quantitat>32294505.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BAIX PENEDÈS, EL</Comarca>
+    <Quantitat>6308762.27</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BARCELONÈS, EL</Comarca>
+    <Quantitat>85945132.64</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>BERGUEDÀ, EL</Comarca>
+    <Quantitat>1413319</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>CERDANYA, LA</Comarca>
+    <Quantitat>1372837.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>CONCA DE BARBERÀ, LA</Comarca>
+    <Quantitat>779967.73</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>GARRAF, EL</Comarca>
+    <Quantitat>7566724.36</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>GARRIGUES, LES</Comarca>
+    <Quantitat>700728.27</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>GARROTXA, LA</Comarca>
+    <Quantitat>2315684.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>GIRONÈS, EL</Comarca>
+    <Quantitat>7272864.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>MARESME, EL</Comarca>
+    <Quantitat>20817488.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>Moianès</Comarca>
+    <Quantitat>617606.38</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>MONTSIÀ, EL</Comarca>
+    <Quantitat>2767654.36</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>NOGUERA, LA</Comarca>
+    <Quantitat>1717206.64</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>OSONA</Comarca>
+    <Quantitat>6148248.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PALLARS JUSSÀ, EL</Comarca>
+    <Quantitat>776504.09</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PALLARS SOBIRÀ, EL</Comarca>
+    <Quantitat>545944.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PLA D'URGELL, EL</Comarca>
+    <Quantitat>1599324.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PLA DE L'ESTANY, EL</Comarca>
+    <Quantitat>1343669.82</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PRIORAT, EL</Comarca>
+    <Quantitat>348044.64</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>RIBERA D'EBRE, LA</Comarca>
+    <Quantitat>961147.18</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>RIPOLLÈS, EL</Comarca>
+    <Quantitat>1090518.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>SEGARRA, LA</Comarca>
+    <Quantitat>826106.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>SEGRIÀ, EL</Comarca>
+    <Quantitat>9373223.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>SELVA, LA</Comarca>
+    <Quantitat>8584149.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>SOLSONÈS, EL</Comarca>
+    <Quantitat>580301.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>TARRAGONÈS, EL</Comarca>
+    <Quantitat>12967968.18</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>TERRA ALTA</Comarca>
+    <Quantitat>411844</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>URGELL, L'</Comarca>
+    <Quantitat>1491743.91</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>VAL D'ARAN, LA</Comarca>
+    <Quantitat>1251148.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
+    <Quantitat>36414330</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>VALLÈS ORIENTAL, EL</Comarca>
+    <Quantitat>16654522.18</Quantitat>
+  </CComarca>
+</Comarcas>

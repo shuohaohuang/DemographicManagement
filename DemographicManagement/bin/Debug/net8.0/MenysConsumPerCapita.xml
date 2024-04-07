@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Comarcas>
+  <CComarca>
+    <Comarca>SOLSONÈS, EL</Comarca>
+    <Quantitat>580301.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PALLARS SOBIRÀ, EL</Comarca>
+    <Quantitat>545944.55</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>ALTA RIBAGORÇA, L'</Comarca>
+    <Quantitat>429502.09</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>TERRA ALTA</Comarca>
+    <Quantitat>411844</Quantitat>
+  </CComarca>
+  <CComarca>
+    <Comarca>PRIORAT, EL</Comarca>
+    <Quantitat>348044.64</Quantitat>
+  </CComarca>
+</Comarcas>

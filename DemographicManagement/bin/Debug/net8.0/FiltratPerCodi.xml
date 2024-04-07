@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Comarcas>
+  <CComarca>
+    <Any>2012</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>45299</Població>
+    <Domèstic_xarxa>1794009</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2578545</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4372554</Total>
+    <Consum_domèstic_per_càpita>108.5</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2013</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44771</Població>
+    <Domèstic_xarxa>1697473</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2674706</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4372179</Total>
+    <Consum_domèstic_per_càpita>103.88</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2014</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44578</Població>
+    <Domèstic_xarxa>1625189</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2788655</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4413844</Total>
+    <Consum_domèstic_per_càpita>99.88</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2015</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44306</Població>
+    <Domèstic_xarxa>1636063</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2722696</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4358759</Total>
+    <Consum_domèstic_per_càpita>101.17</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2016</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44107</Població>
+    <Domèstic_xarxa>1661185</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2665065</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4326250</Total>
+    <Consum_domèstic_per_càpita>103.19</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2017</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>43995</Població>
+    <Domèstic_xarxa>1663061</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2853335</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4516396</Total>
+    <Consum_domèstic_per_càpita>103.56</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2018</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44065</Població>
+    <Domèstic_xarxa>1641853</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2890538</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4532391</Total>
+    <Consum_domèstic_per_càpita>102.08</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2019</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44296</Població>
+    <Domèstic_xarxa>1655537</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>3028257</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4683794</Total>
+    <Consum_domèstic_per_càpita>102.4</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2020</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>44695</Població>
+    <Domèstic_xarxa>1739657</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2765098</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4504755</Total>
+    <Consum_domèstic_per_càpita>106.64</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2021</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>45045</Població>
+    <Domèstic_xarxa>1714466</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>2915294</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4629760</Total>
+    <Consum_domèstic_per_càpita>104.28</Consum_domèstic_per_càpita>
+  </CComarca>
+  <CComarca>
+    <Any>2022</Any>
+    <Codi_comarca>1</Codi_comarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+    <Població>45540</Població>
+    <Domèstic_xarxa>1685688</Domèstic_xarxa>
+    <Activitats_econòmiques_i_fonts_pròpies>3040038</Activitats_econòmiques_i_fonts_pròpies>
+    <Total>4725726</Total>
+    <Consum_domèstic_per_càpita>101.41</Consum_domèstic_per_càpita>
+  </CComarca>
+</Comarcas>
